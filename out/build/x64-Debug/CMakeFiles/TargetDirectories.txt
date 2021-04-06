@@ -1,0 +1,5 @@
+C:/Users/15346/source/repos/Regev/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/15346/source/repos/Regev/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/15346/source/repos/Regev/out/build/x64-Debug/Regev/CMakeFiles/Regev.dir
+C:/Users/15346/source/repos/Regev/out/build/x64-Debug/Regev/CMakeFiles/edit_cache.dir
+C:/Users/15346/source/repos/Regev/out/build/x64-Debug/Regev/CMakeFiles/rebuild_cache.dir
